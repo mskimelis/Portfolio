@@ -1,0 +1,7 @@
+.skills {
+  display: flex;
+  padding-top: 15%;
+  flex-direction: column;
+  align-content: center;
+  flex-wrap: wrap;
+}
